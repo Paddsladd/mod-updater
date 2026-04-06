@@ -45,5 +45,5 @@ pip install -U pyinstaller
 ```
 Run `pyinstaller` with this command to make the executable:
 ```
-python -m pyinstaller --noconfirm --onefile --console --icon ".\logo.ico" ".\update-windows.py"
+python -m pyinstaller --noconfirm --onefile --console --icon ".\logos\logo.ico" ".\update-windows.py"
 ```
