@@ -37,3 +37,13 @@ Defaults for `update.json`:
     - "fabric", "quilt", "forge" or "neoforge"
 - modsFolder: The folder for storing mods.
     - "mods"
+
+## Build from source
+To build an executable from source, install `pyinstaller` with pip:
+```
+pip install -U pyinstaller
+```
+Run `pyinstaller` with this command to make the executable:
+```
+python -m pyinstaller --noconfirm --onefile --console --icon ".\logo.ico" ".\update-windows.py"
+```
