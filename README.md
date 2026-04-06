@@ -1,4 +1,4 @@
-*Fork of [MCAutoModUpdater](https://github.com/lom3e/MCAutoModUpdater)*
+*Fork of [MCAutoModUpdater](https://github.com/lom3e/MCAutoModUpdater) by [lom3e](https://github.com/lom3e)*
 
 # Mod Updater
 Update your server/client mods with a simple python script
