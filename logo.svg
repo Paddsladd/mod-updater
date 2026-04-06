@@ -1,0 +1,19 @@
+<svg width="1080" height="1080" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" enable-background="new 0 0 750 750" version="1.1">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect rx="50" stroke-width="50" id="svg_1" height="1030" width="1030" y="25" x="25" stroke="#000" fill="url(#svg_14)"/>
+  <ellipse stroke-width="50" ry="350" rx="350" id="svg_2" cy="540" cx="539.99999" stroke="#000" fill="#fff"/>
+  <path transform="rotate(180, 540, 540)" stroke-width="50" id="svg_3" d="m309.77853,539.44798l230.22148,-229.44819l230.22148,229.44819l-115.11075,0l0,230.55226l-230.22147,0l0,-230.55226l-115.11075,0z" stroke="#000" fill="#fff"/>
+ </g>
+ <defs>
+  <linearGradient y2="1" x2="1" y1="0" x1="1" id="svg_14">
+   <stop offset="0" stop-color="#fff"/>
+   <stop offset="0.67188" stop-opacity="0.99219" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#000000"/>
+   <stop offset="1" stop-color="#000000"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+  </linearGradient>
+ </defs>
+</svg>
